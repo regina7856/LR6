@@ -88,3 +88,5 @@
 ![](https://github.com/regina7856/LR6/blob/report/screens/24.jpg)
 
 - Скриншот окна текстового редактора (Notepad++)
+
+![](https://github.com/regina7856/LR6/blob/report/screens/25.jpg)
