@@ -56,3 +56,31 @@
 
 ![](https://github.com/regina7856/LR6/blob/report/screens/16.jpg)
 
+- Удаляется ненужная ветка командой `git branch -d`
+
+![](https://github.com/regina7856/LR6/blob/report/screens/17.jpg)
+
+- Проверка правильности выполнения команды
+
+![](https://github.com/regina7856/LR6/blob/report/screens/18.jpg)
+
+- Производится несколько изменений созданием новых файлов с текстом командой `echo`
+> Не забываем про коммиты
+![](https://github.com/regina7856/LR6/blob/report/screens/19.jpg)
+
+- Просмотр недавних коммитов с изменениями
+
+![](https://github.com/regina7856/LR6/blob/report/screens/20.jpg)
+
+- Произведём откат коммита командой `git reset HEAD~1` и просмотрим результат выполнения
+
+![](https://github.com/regina7856/LR6/blob/report/screens/21.jpg)
+
+> так как мы произвели не жёсткий откат коммита, не забудем удалить файл `file2.txt`
+
+- Создадим и настроим новую ветку для отчёта
+
+![](https://github.com/regina7856/LR6/blob/report/screens/22.jpg)
+![](https://github.com/regina7856/LR6/blob/report/screens/23.jpg)
+
+- Получена история операций в форматированном виде с помощью `git log --date=format:'%D' --pretty=format:"%h - %cd, %cn ^ %s
