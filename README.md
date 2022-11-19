@@ -83,7 +83,7 @@
 ![](https://github.com/regina7856/LR6/blob/report/screens/22.jpg)
 ![](https://github.com/regina7856/LR6/blob/report/screens/23.jpg)
 
-- Получена история операций в форматированном виде с помощью `git log --date=format:'%D' --pretty=format:"%h - %cd, %cn : %s"
+- Получена история операций в форматированном виде с помощью `git log --date=format:'%D' --pretty=format:"%h - %cd, %cn : %s"`
 
 ![](https://github.com/regina7856/LR6/blob/report/screens/24.jpg)
 
